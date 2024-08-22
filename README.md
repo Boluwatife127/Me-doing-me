@@ -1,0 +1,6 @@
+# Me-doing-me
+tutorial on git 
+
+hELLO WORLD REPOSITORY FOR GIT TUTORIAL 
+
+IT NOW INCLUDES STEP FOR GIT HUB
